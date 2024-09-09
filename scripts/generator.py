@@ -11,9 +11,9 @@ with open('students.csv', 'r') as file:
     <div>
         <img src="">
     </div>
-    <div class="student-name">{name}</div>
-    <div> School:  </div>
-    <p> What I'm most looking forward to about the CodeDay Labs internship is ... </p>
+    <div class="student-name">{Mahdi Alsalami}</div>
+    <div> School:  CSULB </div>
+    <p> What I'm most looking forward to about the CodeDay Labs internship is working with others! </p>
     <a href="">Team page (leave blank until Module 5 when you will be assigned to your teams</a>
 </div>
             """)
